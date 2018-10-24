@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="components">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/components/httpmime-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/components/spring-boot-starter-web-1.5.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/components/json-lib-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/components/netty-all-4.0.27.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
